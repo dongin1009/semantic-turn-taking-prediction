@@ -47,7 +47,15 @@ Here is the results of conversation datasets, [*MultiWoZ*](https://huggingface.c
 
 
 ## Citation
-TBD
+```bibtex
+@INPROCEEDINGS{jung2023turntaking,
+  title={Automatic Conversation Turn-Taking Segmentation in Semantic Facet},
+  author={Jung, Dongin and Cho, Yoon-Sik},
+  booktitle={2023 International Conference on Electronics, Information, and Communication (ICEIC)}, 
+  year={2023},
+  pages={1-4},
+  doi={10.1109/ICEIC57457.2023.10049858}}
+```
 
 ## Contact
 If you have any questions, please contact us via email: [dongin1009@gmail.com](mailto:dongin1009@gmail.com)
